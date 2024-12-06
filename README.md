@@ -1,5 +1,5 @@
 https://github.com/RazaRathour1/AA.py
 
-cd AA
+cd AA.py
 
 python AA.py
