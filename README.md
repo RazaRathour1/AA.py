@@ -1,4 +1,4 @@
-https://github.com/RazaRathour1/AA.py
+git clone https://github.com/RazaRathour1/AA.py
 
 cd AA.py
 
